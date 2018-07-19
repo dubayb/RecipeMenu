@@ -5,20 +5,16 @@
 \margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 Plated Challenge\
+\f0\fs24 \cf0 RecipeMenu\
 \
-Unzip and open the xcworkspace file.\
+-Unzip and open the xcworkspace file.\
 \
-go to the 
-\b general
-\b0  tab of the project.\
-underneath 
-\b signing
-\b0  click the drop down next to 
-\b team.\
+go to the general tab of the project.\
+underneath signing click the drop down next to team
+\b .\
 
 \b0 Enter your own apple developer account name.\
 \
-At the top left there is a 
-\b play 
+At the top left there is a play
+\b  
 \b0 symbol, click to run the project.}
