@@ -1,0 +1,6 @@
+framework module Pods_PlatedChallenge {
+  umbrella header "Pods-PlatedChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
